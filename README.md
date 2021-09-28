@@ -26,6 +26,6 @@
   <a href = "mailto:anajuceolho21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-j%C3%BAlia-coelho-s%C3%A1vio-530441217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-   ![Snake animation](https://github.com/najux13/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/najux13/najux13/blob/output/github-contribution-grid-snake.svg)
    
   </div>
