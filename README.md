@@ -1,8 +1,8 @@
 ### Oii! Eu sou a Ana Júlia(najux13)
 
-- 🔭 Hoje estou entrando no meio de trabalho
+- 🔭 Estou entrando no meio de trabalho
 - 🌱 Estou estudando JavaScript e Flutter, principalmente
-- 😄 Pronomes: el/dela
+- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/najux13">
