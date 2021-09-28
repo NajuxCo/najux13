@@ -1,4 +1,4 @@
-### Oii! Eu sou a Ana Júlia(najux13)
+### Oii! Eu sou a Ana Júlia (najux13)
 
 - 🔭 Estou entrando no meio de trabalho
 - 🌱 Estou estudando JavaScript e Flutter, principalmente
