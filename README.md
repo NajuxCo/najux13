@@ -1,8 +1,7 @@
-### Oii! Eu sou a Ana Júlia (najux13)
+### Olá! Eu sou a Ana Ju
 
-- 🔭 Estou entrando no meio de trabalho
-- 🌱 Estou estudando JavaScript e Flutter, principalmente
-- 😄 Pronomes: ela/dela
+- 🔭 Estou a procura de conhecimento
+- 🌱 Estou estudando javaScript, css, html, react e angular
 
 <div align="center">
   <a href="https://github.com/najux13">
