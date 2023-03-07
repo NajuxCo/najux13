@@ -4,9 +4,9 @@
 - 🖥️ Estou estudando javaScript, css, html, react, angular e python
 
 <div align="center">
-  <a href="https://github.com/najux13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=najux13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najux13&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/NajuxCo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NajuxCo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajuxCo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -25,6 +25,6 @@
   <a href = "mailto:anajuceolho21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-j%C3%BAlia-coelho-s%C3%A1vio-530441217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-   ![Snake animation](https://github.com/najux13/najux13/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/NajuxCo/NajuxCo/blob/output/github-contribution-grid-snake.svg)
    
   </div>
