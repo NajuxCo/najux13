@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ana Ju
 
-- 🔭 Estou a procura de conhecimento
-- 🌱 Estou estudando javaScript, css, html, react e angular
+- 👩🏽‍💻 Estou a procura de conhecimento
+- 🖥️ Estou estudando javaScript, css, html, react, angular e python
 
 <div align="center">
   <a href="https://github.com/najux13">
